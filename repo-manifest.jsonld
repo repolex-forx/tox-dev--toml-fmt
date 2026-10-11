@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/toml-fmt/commit/58709e88fc6ecd2df2a1d4c1ad29738e72dfbf2c",
       "git:hexsha": "58709e88fc6ecd2df2a1d4c1ad29738e72dfbf2c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "tox-toml-fmt/1.11.1"
     },
     {
