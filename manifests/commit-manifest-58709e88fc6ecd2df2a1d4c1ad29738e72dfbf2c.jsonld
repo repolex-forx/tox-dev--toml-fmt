@@ -45,13 +45,19 @@
     },
     {
       "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/58709e88fc6ecd2df2a1d4c1ad29738e72dfbf2c/chunk-001.nq.gz",
+      "repolex:graphFileSize": 3810730
+    },
+    {
+      "@type": "repolex:GraphFile",
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/58709e88fc6ecd2df2a1d4c1ad29738e72dfbf2c/chunk-001.nq.gz",
       "repolex:graphFileSize": 18683940
     }
   ],
-  "repolex:parseStatus": "ast_complete",
-  "repolex:parsedAt": "2026-10-11T03:09:27.101217+00:00",
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-10-11T03:13:46.689279+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "tox-toml-fmt/1.11.1"
 }
